@@ -14,6 +14,21 @@
 - `PHP`
 - `MySQL`
 
+## Chức năng:
+
+- User:
+  - Đăng kí
+  - Đăng nhập
+  - Tìm kiếm Tour
+  - CRUD tour vào giỏ hàng
+  - Xem chi tiết Tour
+  - Booking Tour
+- Admin:
+  - CRUD Tour
+  - CRUD User
+  - Xem thông tin user
+  - Thống kê tổng doanh thu, số user, số đơn chưa thanh toán
+
 ## Hướng dẫn sử dụng code:
 
 - Để sử dụng code này máy tính của bạn phải cài đặt Xampp ( hoặc khác tùy bạn chọn ) để có thể chạy code.
