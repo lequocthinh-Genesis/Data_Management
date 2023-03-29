@@ -26,7 +26,7 @@
 - Admin:
   - CRUD Tour
   - CRUD User
-  - Xem thông tin user
+  - Xác nhận đơn hàng
   - Thống kê tổng doanh thu, số user, số đơn chưa thanh toán
 
 ## Hướng dẫn sử dụng code:
