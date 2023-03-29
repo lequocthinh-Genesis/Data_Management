@@ -16,4 +16,4 @@
 
 ## Hướng dẫn sử dụng code:
 
-- Để sử dụng code này máy tính của bạn phải cài đặt Xampp để có thể chạy code.
+- Để sử dụng code này máy tính của bạn phải cài đặt Xampp ( hoặc khác tùy bạn chọn ) để có thể chạy code.
